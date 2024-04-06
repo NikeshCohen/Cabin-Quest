@@ -1,4 +1,4 @@
-import CheckoutButton from "features/check-in-out/CheckoutButton";
+import CheckoutButton from "../check-in-out/CheckoutButton";
 import { Link } from "react-router-dom";
 import styled from "styled-components";
 import Button from "../../ui/Button";

@@ -148,11 +148,11 @@ img {
 }
 
 ::-webkit-scrollbar-track {
-  background: var(--color-brand-700);
+  background: none
 }
 
 ::-webkit-scrollbar-thumb {
-  background: var(----color-grey-50);
+  background: var(--color-brand-700)
 }
 
 `;

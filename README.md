@@ -1,4 +1,6 @@
-# Cabin Quest
+<h1 align='center'>Cabin Quest</h1>
+
+![](./design/cabin%20quest.webp)
 
 The Cabin Quest hotel employee app is a comprehensive management tool designed for hotel staff to efficiently handle various aspects of their daily operations. From managing cabin information to handling guest bookings and payments, this application streamlines hotel management tasks, enhancing overall productivity and guest satisfaction.
 
